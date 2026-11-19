@@ -1,0 +1,43 @@
+{
+  "files": [
+    {
+      "path": "Documents/DR.mp4",
+      "size": 299722132,
+      "sha256": "3c0e2ff95bc240976cfcd12fbfdbf03722bcba9c5a0f0e0f014d7a5a6d85e700",
+      "parts": [
+        {
+          "url": "https://github.com/ArviZuko/Hyperluma-Portable-Hyperspectrum-Based-Diabetic-Retinopathy-Detection/releases/download/large-files-no-lfs/DR.mp4",
+          "size": 299722132,
+          "sha256": "3c0e2ff95bc240976cfcd12fbfdbf03722bcba9c5a0f0e0f014d7a5a6d85e700",
+          "name": "DR.mp4"
+        }
+      ]
+    },
+    {
+      "path": "SRC/APP/App/HYPERLUMA.exe",
+      "size": 294853279,
+      "sha256": "c2d6f51efb697ddda50420e6643aa09f9510053787f1c479a79b2ddc807c855b",
+      "parts": [
+        {
+          "url": "https://github.com/ArviZuko/Hyperluma-Portable-Hyperspectrum-Based-Diabetic-Retinopathy-Detection/releases/download/large-files-no-lfs/HYPERLUMA.exe",
+          "size": 294853279,
+          "sha256": "c2d6f51efb697ddda50420e6643aa09f9510053787f1c479a79b2ddc807c855b",
+          "name": "HYPERLUMA.exe"
+        }
+      ]
+    },
+    {
+      "path": "SRC/APP/Installer/HYPERLUMA_Setup_v2.0.0.exe",
+      "size": 521652850,
+      "sha256": "1928f1c5f99d7e47efb4553c7ce22cda4cae01932fe67c250f5aa43121cfb425",
+      "parts": [
+        {
+          "url": "https://github.com/ArviZuko/Hyperluma-Portable-Hyperspectrum-Based-Diabetic-Retinopathy-Detection/releases/download/large-files-no-lfs/HYPERLUMA_Setup_v2.0.0.exe",
+          "size": 521652850,
+          "sha256": "1928f1c5f99d7e47efb4553c7ce22cda4cae01932fe67c250f5aa43121cfb425",
+          "name": "HYPERLUMA_Setup_v2.0.0.exe"
+        }
+      ]
+    }
+  ]
+}
